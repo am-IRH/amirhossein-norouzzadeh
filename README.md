@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: react
 
 The programming languages I work with: html/css javascript nodeJS
-- <!--
+<!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
