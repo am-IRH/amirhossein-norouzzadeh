@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @amirhossein-norouzzadeh
+- 👋 Hi, I’m amir Norouzzadeh || @am-IRH
 - 👀 I’m interested in and the world of the web
-- 🌱 I’m currently learning: node-JS
+- 🌱 I’m currently learning: flutter 
 
-  -> The programming languages I work with: html/css javaScript nodeJS bootstrap 
+  -> The programming languages I work with: html/css/bootstrap javaScript nodeJS bootstrap 
      -> database: sql -  mongoDB - MySQL 
      
      
-  MY email is =>  norouzzadeh.pro@gmail.com
+  MY email is =>  norouzzadeh.dev@gmail.com
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
